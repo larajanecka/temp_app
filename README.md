@@ -23,7 +23,7 @@ Things you may want to cover:
 
 * ...
 
-I like pie
+I like pie. It is good.
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
